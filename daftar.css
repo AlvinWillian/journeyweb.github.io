@@ -1,0 +1,16 @@
+body{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+table{
+    width: 350px;
+	background: transparent;
+	/*meletakkan form ke tengah*/
+    margin: 80px auto;
+	padding: 30px 20px;
+}
